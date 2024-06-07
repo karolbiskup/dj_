@@ -24,5 +24,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('baza/', views.index, name='bast_page'),
     path('caption1/', views.caption_1, name='caption_1'),
-    path('caption2/', views.caption_2, name='caption_2')
+    path('caption2/', views.caption_2, name='caption_2'),
+    path('caption3/', views.caption_3, name='caption_3')
 ]
