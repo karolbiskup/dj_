@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Zaczynam tworzenie stron w programie django to jest moja pierwsza strona w django")
+    return HttpResponse("Zaczynam tworzenie stron w django to jest moja strona po drobnych modyfikacjach")
