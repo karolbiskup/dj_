@@ -27,5 +27,7 @@ urlpatterns = [
     path('caption2/', views.caption_2, name='caption_2'),
     path('caption3/', views.caption_3, name='caption_3'),
     path('caption4/', views.caption_4, name='caption_4'),
+    path('caption5/', views.caption_5, name='caption_5'),
+    path('caption6/', views.caption_6, name='caption_6')
 ]
 

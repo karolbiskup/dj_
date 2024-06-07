@@ -20,4 +20,14 @@ def caption_3(request):
     return HttpResponse("Zaczynam tworzenie stron w django to jest mój trzeci napis")
 
 
+def caption_4(request):
+    return HttpResponse("to jest mój czwarty napis w django")
+
+
+def caption_5(request):
+    return HttpResponse("to jest mój piąty napis w django")
+
+
+def caption_6(request):
+    return HttpResponse("to jest mój szósty napis w django")
 
