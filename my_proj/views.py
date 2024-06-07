@@ -20,3 +20,4 @@ def caption_3(request):
     return HttpResponse("Zaczynam tworzenie stron w django to jest mój trzeci napis")
 
 
+

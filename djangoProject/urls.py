@@ -28,3 +28,4 @@ urlpatterns = [
     path('caption3/', views.caption_3, name='caption_3'),
     path('caption4/', views.caption_4, name='caption_4'),
 ]
+
